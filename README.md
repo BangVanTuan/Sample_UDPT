@@ -1,4 +1,3 @@
-Creating an online course-selling application involves several functionalities to ensure smooth operations for both users and administrators. Here's a detailed list of key features and functions you can consider:
 
 ### 1. **User Authentication and Profiles**
    - **User Registration**: Allow users to sign up using email, Google, Facebook, etc.
@@ -75,4 +74,3 @@ Creating an online course-selling application involves several functionalities t
    - **Revenue and Payouts**: Overview of platform revenue and instructor payouts.
    - **Platform Settings**: Configure site settings, branding, and notifications.
 
-This list offers a solid foundation for an online course-selling application. Let me know if you'd like to delve into any of these features in more detail!
